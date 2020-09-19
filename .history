@@ -1,0 +1,308 @@
+ll
+ls
+echo $SHEEL
+echo $SHELL
+LL
+ll
+whoami
+echo $host
+echo $HOST
+echo $TERM
+echo $USER
+echo '$USER'
+echo "mi usuario es $USER"
+clear
+date
+echo "hoy es el día `date`"
+echo "hoy es el día 'date'"
+echo "hoy es el día $(date)"
+$date
+$(date)
+ll
+date
+echo $USER
+clear
+\ �
+\b
+echo %USER
+echo $USER
+echo holi echo adios
+echo holi $(echo) adios
+cd Data/shell
+ls
+cat Text_example.txt
+cat -n  Text_example.txt
+cat -n  Text_example.txt Text_example.txt Text_example.txt
+cat /n  Text_example.txt Text_example.txt Text_example.txt
+cat -n  Text_example.txt Text_example.txt Text_example.txt
+pwd
+cd~
+cd ~
+~
+ll
+cd ..
+cd
+cd Data/shell
+ll
+cd ~
+cd -
+cd ~
+ll
+ls
+lh
+ln
+ll
+ls
+ls -a
+ls -l
+ls Ń�
+ls -S
+ls -R
+ll
+cd Video
+cd Videos
+ll
+mkdir holi
+ll
+ls -l
+touch minuevoarchivo
+ll
+rm holi
+rm -r holi
+ll
+rm minuevoarchivo
+ll
+mkdir minuevoarchivo
+ll
+cp minuevoarchivo ~
+cp -r minuevoarchivo ~
+ll
+~
+cd ~
+ll
+rm -r minuevoarchivo
+ll
+cd -
+ll
+cd minuevoarchivo
+echo 'nuevo' > agua
+ll
+cat agya
+cat agua
+cd
+ll
+cd V
+cd Videos
+ll
+ls minuevoarchivo
+rm -rf minuevoarchivo
+ll
+cd
+git clone https://github.com/IgorAramb/DS_CL_files.git
+ll
+cd DS_CL_files
+ls
+clear
+ll
+rm README.md
+git reset HEAD --hard
+ls --help
+clear
+ll
+git config --global user.name "Barish R"
+git config --global user.email "barish30@gmail.com"
+cat .git/config
+cd..
+cd
+ll
+git clone https://github.com/barish30/master_kschool.git
+ll
+cd master_kschool
+ls
+ll
+cat README.md
+touch test
+touch modelo
+ll
+git status
+git add modelo
+git status
+git commit -m 'My first doc test'
+git push 
+ll
+status
+git status
+cat modelo
+ll
+diff --git modelo
+ll
+exit
+ll
+cd master_kschool
+ll
+git reset HEAD -hard
+git reset HEAD --hard
+ll
+git reset HEAD --hard
+git config
+git --
+git config --global user.name "Barish R"
+git config --global user.email "barish30@gmail.com"
+cat global
+cat config
+cat .gitconfig
+~
+cd
+cat .gitconfig
+git config --
+ll
+cat .gitconfig
+gedit .gitconfig
+cd master_kschool
+mkdir Repos
+ll
+rm Repos
+rm -r Repos
+ll
+cd
+mkdir Repos
+cd Repos
+ll
+cd
+mv master_kschool Repos
+ll
+cd Repos
+ll
+cd master_kschool
+pwd
+ll
+cd ..
+ll
+cd master_kschool
+ll
+getedit README.md
+cat README.md
+git status
+git init Master_repos
+ll
+cd Master_repos
+git status
+git add
+cd ..
+status
+git status
+git rm test
+git rm -r test
+ll
+rm -r test
+ll
+git status
+ll
+git add\
+ll
+cd Master_repos
+touch test
+ll
+git status
+git add test
+git commit -m 'repo of a repo test'
+git push
+ll
+cd ..
+ll
+rm -rf Master_repos
+ll
+status
+git status
+touch my_repo.txt
+ll
+getedit my_repo.txt
+gedit my_repo.txt
+ll
+cat my_repo.txt
+git add my_repo.txt
+git status
+git commit -m 'my repo of a repo'
+git push
+ll
+cat my_repo.txt
+ll
+mkdir myrepos
+ll
+cd myrepos
+touch second_file.txt third_file.txt
+ll
+cd ..
+ll
+git status
+git add myrespos
+cd myrepos
+status
+git status
+git add myrepos/
+cd ..
+ll
+git add myrepos/
+git commit -m 'my folder of repos'
+ll
+git push
+ll
+cd myrepos
+ll
+gedit second_file.txt
+cat second_file.txt
+git status
+gedit third_file.txt
+ll
+git status
+git add -u
+git commit -m 'my files'
+git log
+ll
+git remote add origin https://github.com/barish30/Local_init.git
+git push
+ll
+cd ..
+ll
+git init Remote
+ll
+cd Remote
+ll
+touch myremotefile.txt
+ll
+git add myremotefile.txt
+ll
+git status
+git commit -m 'my remote file'
+git remote add origin https://github.com/barish30/Local_init.git
+ll
+git remote /v
+git remote -v
+git push -u origin master
+git status
+ll
+cd ..
+ll
+git status
+git add Remote/
+git commit -m 'Remote file'
+git push
+ll
+cd
+ll
+cat .history
+ll
+cd Repos
+ll
+cd master_kschool
+cd ..
+ll
+cd master_kschool
+cd..
+cd ..
+git clone https://github.com/barish30/Command_line_MasterDS.git
+ll
+cd Command_line_MasterDS
+ll
+cp ~/.history 
+cp ~/.history .
